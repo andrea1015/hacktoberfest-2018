@@ -612,3 +612,8 @@
 - Place: Miami, Florida, USA
 - Bio: Hobbiest, Reader
 - GitHub: [Ceefbox](https://github.com/ceefbob)
+
+#### Name: [Andrea Quartarone](https://github.com/andrea105)
+- Place: Poland
+- Bio: Developer, Reader
+- GitHub: [Ceefbox](https://github.com/andrea1015)
